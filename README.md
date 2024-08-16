@@ -44,7 +44,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Siddheshdalvi07/cardealer.git
+   git clone https://github.com/SiddheshDalvi07/cardealer.git
    cd cardealer
    ```
 
